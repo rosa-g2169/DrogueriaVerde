@@ -1,0 +1,21 @@
+/*Documento general*/
+body{
+    background:-webkit-radial-gradient(left, farthest-corner, white, #afcc8af3);
+    background:-moz-radial-gradient(left, farthest-corner, white, #afcc8af3);
+    background:-o-radial-gradient(left, farthest-corner, white, #afcc8af3);
+    
+}
+
+h1{
+    font-family: "Abadi MT Condensed Extra Bold";
+    font-style: italic;
+    font-size: 40px;
+    align-content: center;
+}
+
+h3{
+    font-family: "Abadi MT Condensed Extra Bold";
+    font-style: italic;
+    font-size: 20px;
+    align-content: center;
+}
