@@ -1,0 +1,77 @@
+/*Documento general*/
+body{
+    background:-webkit-radial-gradient(left, farthest-corner, white, #afcc8af3);
+    background:-moz-radial-gradient(left, farthest-corner, white, #afcc8af3);
+    background:-o-radial-gradient(left, farthest-corner, white, #afcc8af3);
+    
+}
+form{
+
+}
+div{
+
+}
+
+/*Estructura tabla*/
+table{
+    width: 680px;
+    border: 2px solid #02421cf3;
+    padding: 10px;
+    margin: 5%;
+    font-family: "Abadi MT Condensed Extra Bold";
+    font-size: 16px;
+    font-weight: bold;
+
+}
+thead{
+
+}
+tbody{
+
+}
+tr{
+
+}
+td{
+    font-size: 20px;
+    align-content: center;
+
+}
+button{
+    border: none;
+    background-color: transparent;
+    font-family: "Abadi MT Condensed Extra Bold";
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px;
+    margin: 2%;
+    
+}
+br{
+    display: inline-table;
+}
+
+/*Datos de entrada*/
+input{
+    border-color: #00cc00;
+
+}
+#close-image img{
+    height: 25px;
+    width: 25px;
+}
+
+/*Class generales*/
+.titulo{
+    font-family: "Abadi MT Condensed Extra Bold";
+    font-style: italic;
+    font-size: 20px;
+    align-content: center;
+    }
+.titulo img{
+        width: 50px;
+        float: left;
+        margin-right: 50px;
+        margin-bottom: 20px;
+        margin-top: 0px;
+        }
